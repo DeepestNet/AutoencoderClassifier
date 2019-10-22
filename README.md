@@ -5,7 +5,7 @@ Supervised and unsupervised training using CIFAR-10 dataset
 
 Dependencies:
 
-python2.7
+python 2.7
 
 keras '2.1.5'
 
